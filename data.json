@@ -1,0 +1,17 @@
+{
+  "title": "世界遠征 角笛回復日 休戦日",
+  "events": [
+    {
+      "date": "2026-11-08",
+      "type": "horn_recovery",
+      "title": "角笛回復日",
+      "note": "作戦準備"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "truce",
+      "title": "休戦日",
+      "note": "終日休戦"
+    }
+  ]
+}
